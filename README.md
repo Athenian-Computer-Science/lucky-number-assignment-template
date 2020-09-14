@@ -1,9 +1,7 @@
-# Master CT Assignment Template 
-
-Use this master template to create CT Assignment Templates.
+# Lucky Number: a game of chance
 
 ## Problem Description
-Problem description goes here. 
+Write a program that chooses 3 random numbers
 
 * Steps to take go here. 
 
